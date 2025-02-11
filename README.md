@@ -31,7 +31,7 @@ React komponent yapısı ve props kullanımı.<br>
 
 💬 İletişim: muratalisahin61@gmail.com <br> <br> 
 Ekran Kaydı:<br>
-</h3>
+</h3><br>
 
 <video controls muted src="bandicam 2025-02-11 20-51-59-663.mp4" title="Title"></video>
 # react-pokemon-game

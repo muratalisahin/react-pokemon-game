@@ -30,8 +30,8 @@ PokéAPI'dan dinamik veri çekimi.<br>
 React komponent yapısı ve props kullanımı.<br> 
 
 💬 İletişim: muratalisahin61@gmail.com <br> <br> 
-Ekran Kaydı:<br>
+Ekran Kaydı:
 </h3><br>
 
-<video controls src="bandicam 2025-02-11 20-51-59-663.mp4" title="Title"></video>
+
 

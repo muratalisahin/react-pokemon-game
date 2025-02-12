@@ -34,4 +34,8 @@ Ekran Kaydı:
 </h3><br>
 
 
+https://github.com/user-attachments/assets/96182038-9440-43fe-9456-dc23efb4bcfd
+
+
+
 
